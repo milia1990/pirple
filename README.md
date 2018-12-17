@@ -1,6 +1,5 @@
 # pirple
 It's my homework for python learning at Pirple.
 
-Setcion 2. Variables. 
-main.py - My favorite song programm.^-^ 
-Check pls!
+Setcion 1. Variables. 
+main.py - homework #1
